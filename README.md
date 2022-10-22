@@ -75,11 +75,11 @@ setTimeout이 실행되면 타이머와 함께 run 콜백을 백그라운드로 
 <br>
 
 ## 3. 노드의 기능
-[REPL 사용](https://github.com/hsh0340/nodejs-study/tree/main/3.%20%EB%85%B8%EB%93%9C%EC%9D%98%20%EA%B8%B0%EB%8A%A5/REPL%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)<br>
-JS 파일 실행하기<br>
-모듈로 만들기<br>
-....<br>
-(작성중)
+* [REPL 사용](https://github.com/hsh0340/nodejs-study/tree/main/3.%20%EB%85%B8%EB%93%9C%EC%9D%98%20%EA%B8%B0%EB%8A%A5/REPL%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)<br>
+* [JS 파일 실행하기](https://github.com/hsh0340/nodejs-study/tree/main/3.%20%EB%85%B8%EB%93%9C%EC%9D%98%20%EA%B8%B0%EB%8A%A5/3.2%20JS%20%ED%8C%8C%EC%9D%BC%20%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0)<br>
+* 모듈로 만들기<br>
+* ....(작성중)<br>
+
 
 
 
