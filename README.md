@@ -4,7 +4,6 @@ Node.js를 공부하면서 기억해야 할 내용들을 정리한다.
 <br>
 
 ## 1. 핵심 개념 이해
-<hr>
 
 ### 1) Node.js란?
 노드 공식 사이트에서는 노드를 다음과 같이 설명하고 있다.
@@ -72,13 +71,11 @@ setTimeout이 실행되면 타이머와 함께 run 콜백을 백그라운드로 
 <br>
 
 ## 2. 노드를 서버로 사용할 때의 특성
-<hr>
 <br>
 <br>
 
 ## 3. 노드의 기능
-<hr>
-REPL 사용<br>
+[REPL 사용](https://github.com/hsh0340/nodejs-study/tree/main/3.%20%EB%85%B8%EB%93%9C%EC%9D%98%20%EA%B8%B0%EB%8A%A5/JS%20%ED%8C%8C%EC%9D%BC%20%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0)<br>
 JS 파일 실행하기<br>
 모듈로 만들기<br>
 ....<br>
