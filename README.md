@@ -1,5 +1,6 @@
 # Node.js
-Node.js를 공부하면서 기억해야 할 내용들을 정리한다.
+Node.js를 공부하면서 기억해야 할 내용들을 정리한다.<br>
+<small>참고문헌 : _Node.js 교과서(조현영 지음)_</small>
 <br>
 <br>
 
